@@ -36,3 +36,5 @@ This project integrates **Firebase Authentication, Cloud Firestore, and Cloudina
    ```bash
    git clone https://github.com/username/todooappnit.git
    cd todooappnit
+## 🎥 Demo Video
+[Watch the demo](./IMG_9621.MOV)
