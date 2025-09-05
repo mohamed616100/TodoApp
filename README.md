@@ -1,16 +1,38 @@
-# todooappnit
 
-A new Flutter project.
 
-## Getting Started
+A Flutter To-Do application that helps users manage their daily tasks efficiently.  
+This project integrates **Firebase Authentication, Cloud Firestore, and Cloudinary** to provide a modern and scalable solution.
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+ Features
+-  User authentication using **Firebase Auth** (Sign Up, Login, Logout).
+-  Store tasks in **Cloud Firestore Database** for real-time sync.
+-  Upload and manage media files (images, videos, etc.) with **Cloudinary**.
+- Add, edit, mark as complete/incomplete, and delete tasks.
+-  Persistent local storage with **SharedPreferences** for offline mode.
+-  Simple and clean UI built with Flutter.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## ️ Technologies Used
+- [Flutter](https://flutter.dev/) (Dart SDK)
+- [Firebase Auth](https://firebase.google.com/docs/auth)
+- [Cloud Firestore](https://firebase.google.com/docs/firestore)
+- [Cloudinary](https://cloudinary.com/)
+
+---
+
+
+## ⚙️ Installation
+
+### Prerequisites
+- Flutter SDK: [Flutter installation guide](https://flutter.dev/docs/get-started/install)
+- Dart SDK (included with Flutter)
+- Visual Studio Code: [Download VS Code](https://code.visualstudio.com/)
+
+### Steps
+1. Clone the repo
+   ```bash
+   git clone https://github.com/username/todooappnit.git
+   cd todooappnit
