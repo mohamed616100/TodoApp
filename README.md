@@ -25,11 +25,7 @@ This project integrates **Firebase Authentication, Cloud Firestore, and Cloudina
 ---
 
 ## 🎥 Demo Video
-> **Note**: The demo video (44MB) is available in the [Releases section](https://github.com/username/todooappnit/releases)
-
-[![Demo Preview](https://img.shields.io/badge/📱-Watch%20Demo-blue?style=for-the-badge)](https://github.com/username/todooappnit/releases/download/v1.0/IMG_9621.MOV)
-
----
+> **Note**: The demo video (44MB) is available in the
 
 ## ⚙️ Installation
 
