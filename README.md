@@ -25,7 +25,12 @@ This project integrates **Firebase Authentication, Cloud Firestore, and Cloudina
 ---
 
 ## 🎥 Demo Video
-[IMG_9621.MOV](../../Users/mohamedyaser/Downloads/IMG_9621.MOV)
+https://github.com/user-attachments/assets/2200b2c7-b833-413a-85c5-2b828825078c
+
+
+https://github.com/user-attachments/assets/18484422-8ecc-47f2-b2d0-a2609eed0db9
+
+
 ## ⚙️ Installation
 
 ### Prerequisites
